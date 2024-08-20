@@ -1,2 +1,2 @@
 # HotelBookingAPI-Test-
-An Test API 
+Test for API in C#
