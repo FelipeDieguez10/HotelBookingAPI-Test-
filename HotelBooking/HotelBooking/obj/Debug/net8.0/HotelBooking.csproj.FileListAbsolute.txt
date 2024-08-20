@@ -1,0 +1,7 @@
+F:\Projeto CRUD C#\HotelBooking\HotelBooking\obj\Debug\net8.0\HotelBooking.csproj.AssemblyReference.cache
+F:\Projeto CRUD C#\HotelBooking\HotelBooking\obj\Debug\net8.0\HotelBooking.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeto CRUD C#\HotelBooking\HotelBooking\obj\Debug\net8.0\HotelBooking.AssemblyInfoInputs.cache
+F:\Projeto CRUD C#\HotelBooking\HotelBooking\obj\Debug\net8.0\HotelBooking.AssemblyInfo.cs
+F:\Projeto CRUD C#\HotelBooking\HotelBooking\obj\Debug\net8.0\HotelBooking.csproj.CoreCompileInputs.cache
+F:\Projeto CRUD C#\HotelBooking\HotelBooking\obj\Debug\net8.0\HotelBooking.MvcApplicationPartsAssemblyInfo.cs
+F:\Projeto CRUD C#\HotelBooking\HotelBooking\obj\Debug\net8.0\HotelBooking.MvcApplicationPartsAssemblyInfo.cache
